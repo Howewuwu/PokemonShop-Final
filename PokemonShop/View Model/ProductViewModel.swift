@@ -27,7 +27,7 @@ class ProductViewModel {
     func loadProductData() {
         
         productType1 = [
-            Product(name: "寶貝球", image: UIImage(named: "poke-ball-0")!, price: 800.0, cartQuantity: 0, storage: 10),
+            Product(name: "寶貝球", image: UIImage(named: "poke-ball-0")!, price: 800.0, cartQuantity: 0, storage: 20),
             Product(name: "超級球", image: UIImage(named: "great-ball-1")!, price: 1000.0, cartQuantity: 0, storage: 10),
             Product(name: "高級球", image: UIImage(named: "ultra-ball-2")!, price: 1200.0, cartQuantity: 0, storage: 10),
             Product(name: "究極球", image: UIImage(named: "beast-ball-3")!, price: 2000.0, cartQuantity: 0, storage: 10),
